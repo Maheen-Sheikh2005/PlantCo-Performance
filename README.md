@@ -62,5 +62,6 @@ TreeMap: Automatically displays the "Bottom 10" underperforming regions so manag
 Profit Over Volume: By calculating Gross Profit (Selling Price - Cost Price) instead of just tracking raw sales volume, the business ensures it stays truly profitable even if supply costs rise.
 
 📈 Dashboard Preview The final interactive dashboard highlighting KPIs, demographic breakdowns, and category performance.
- Dashboard image link :
- pdf link :
+ Dashboard image link :https://github.com/Maheen-Sheikh2005/PlantCo-Performance/blob/main/Screenshot%20(55).png
+ 
+ pdf link :https://github.com/Maheen-Sheikh2005/PlantCo-Performance/blob/main/Plant%20Co%20document.pdf
