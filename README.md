@@ -1,4 +1,5 @@
 PlantCo Performance Dashboard 🪴
+
 A powerful, interactive Power BI dashboard that tracks the financial and operational health of a global plant retailer. It transforms raw sales data into clean, dynamic insights to help management see exactly where the business is making or losing money.  
 +4
 
